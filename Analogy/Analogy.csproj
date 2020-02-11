@@ -846,7 +846,7 @@
       <Version>1.0.1</Version>
     </PackageReference>
     <PackageReference Include="Analogy.LogViewer.RSSReader">
-      <Version>1.0.1</Version>
+      <Version>1.0.2</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>12.0.3</Version>
