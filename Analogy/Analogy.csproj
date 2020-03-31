@@ -726,7 +726,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets></IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Analogy.LogViewer.NLogProvider" Version="1.0.4.1">
+    <PackageReference Include="Analogy.LogViewer.NLogProvider" Version="1.1.0">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
